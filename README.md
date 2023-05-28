@@ -8,7 +8,7 @@ Fun fact:
 
 ---
 
-### 🛠️vLanguages and Tools
+### 🛠️ Languages and Tools
 
 <img align="left" width="40px" style="padding: 5px;" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" width="40px" style="padding: 5px;" alt="typescript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
