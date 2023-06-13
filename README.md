@@ -1,6 +1,6 @@
 # Carlos
 
-You have to understand my username, `recarsion` before you can understand my username.
+You have to understand my username before you can understand my username.
 
 ---
 
